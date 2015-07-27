@@ -1,6 +1,14 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+
+  {% include posthead.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
 <div class="post">
 
   <header class="post-header">
@@ -8,8 +16,24 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
+
   <article class="post-content">
     {{ content }}
   </article>
 
+  <span class='st_facebook_large' displayText='Facebook'></span>
+  <span class='st_twitter_large' displayText='Tweet'></span>
+  <span class='st_linkedin_large' displayText='LinkedIn'></span>
+  <span class='st_googleplus_large' displayText='Google +'></span>
+  <span class='st_pinterest_large' displayText='Pinterest'></span>
+  <span class='st_sharethis_large' displayText='ShareThis'></span>
+
 </div>
+ </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
