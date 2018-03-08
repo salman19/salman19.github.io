@@ -41,6 +41,8 @@ ___
 | Google+    | [Salman ElDash](https://plus.google.com/+SalmanElDash) |
 | LinkedIn   | [Salman ElDash](https://www.linkedin.com/in/salmaneldash) |
 | E-mail     | [salman@eldash.info](mailto:salman@eldash.info) |
+| Mobile     | [+201116311326](tel:+201116311326) |
+| Mobile     | [+436645677478](tel:+436645677478) |
 
 <br><br><br>
 
