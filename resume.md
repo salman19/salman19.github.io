@@ -10,7 +10,7 @@ permalink: /resume/
 
 <ul>
     <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;"><a href="http://en.wikipedia.org/wiki/International_General_Certificate_of_Secondary_Education">IGCSE</a>&nbsp;graduate&nbsp;</font>International General Certificate of Secondary Educational</li>
-    <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;">Enrolled in&nbsp;<a href="http://guc.edu.eg/">GUC</a>&nbsp;<a href="http://met.guc.edu.eg/">MET</a>&nbsp;</font>German University in Cairo, major Media Engineering and Technology
+    <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;">Graduated from&nbsp;<a href="http://guc.edu.eg/">GUC</a>&nbsp;<a href="http://met.guc.edu.eg/">MET</a>&nbsp;</font>German University in Cairo, major Media Engineering and Technology
     <ul>
         <li style="margin-bottom: 0in; line-height: 18.3999996185303px;">Courses :
         <ul>
@@ -31,10 +31,27 @@ permalink: /resume/
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=487" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl02_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl02_coursesRepeater_ctl02_Label4">CSEN 603 Software Engineering</a></li>
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=488" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl02_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl02_coursesRepeater_ctl03_Label4">CSEN 604 Data Bases II</a></li>
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=490" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl02_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl02_coursesRepeater_ctl04_Label4">DMET 602 Media and Network lab</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=678" >CSEN 701 Embedded Systems</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=693" >CSEN 702 Microprocessors</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=679" >CSEN 703 Analysis and Design of Algorithms</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=688" >CSEN 704 Advanced computer lab</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=682" >DMET 701 Computer Graphics</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=765" >CSEN 901 Introduction to Artificial Intelligence</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=776" >CSEN 903 Advanced Computer Lab</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=769" >CSEN 906 Constraint Programming</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=766" >DMET 901 Computer Vision</a></li>
+            <li><a class="coursesLst" href="http://eee.guc.edu.eg/CorsMain/Networks/NETW1009%20Cloud%20Computing%20(ISM)/announcement.html" >NETW1009: Cloud computing (ISM) </a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=620" >CSEN 917 Multi-Agent Systems and Planning</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=712" >CSEN 907 Knowledge Representation and Reasoning</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=717" >CSEN 1001 Computer and Network Security</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=732" >CSEN 1002 Advanced Computer Lab</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=733" >CSEN 1003 Compiler</a></li>
+            <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=706" >CSEN 1071 Seminar in Qualitative Spatial Reasoning</a></li>
         </ul>
         </li>
     </ul>
     </li>
+    <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;">Enrolled in <a href="http://www.isi-hagenberg.at/">ISI</a> <a href="https://www.jku.at/">JKU</a></font> Universal Computing and Business , Johannes Kepler University Master's Program</li>
 </ul>
 
 <p style="margin-bottom: 0in; line-height: 18.3999996185303px;"><span style="font-size: 21.3333339691162px; line-height: 18.3999996185303px;">Languages :</span></p>
