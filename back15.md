@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back in '15'
+title: Back in '15
 permalink: /back15/
 ---
 
