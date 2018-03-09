@@ -53,55 +53,38 @@ section #services {
       font-size: 1.2em;
       text-align: center; }
 
-.onclick-menu:hover {
+
+.onclick-menu:focus {
     /* clicking on label should toggle the menu */
     pointer-events: none;
 }
-.onclick-menu:hover .onclick-menu-content {
+.onclick-menu:focus .onclick-menu-content {
     /*  opacity is 1 in opened state (see below) */
     opacity: 1;
     visibility: visible;
-    /*display: block;*/
+    display: block;
 
     /* don't let pointer-events affect descendant elements */
     pointer-events: auto;
 }
 .onclick-menu-content {
-    position: absolute;
-    /*z-index: 1;*/
+    /*position: absolute;*/
+    z-index: 1;
 
     /* use opacity to fake immediate toggle */
     opacity: 0;
     visibility: hidden;
     transition: visibility 0.5s;
-    /*display: none;*/
+    display: none;
 }
 
-i {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
 
-.right {
-    transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-}
-
-.left {
-    transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
-}
-
-.up {
-    transform: rotate(-135deg);
-    -webkit-transform: rotate(-135deg);
-}
-
-.down {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
+.triangle-down {
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid #555;
 }
 
 /**
