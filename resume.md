@@ -12,8 +12,8 @@ permalink: /resume/
     <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;"><a href="http://en.wikipedia.org/wiki/International_General_Certificate_of_Secondary_Education">IGCSE</a>&nbsp;graduate&nbsp;</font>International General Certificate of Secondary Educational</li>
     <li style="margin-bottom: 0in; line-height: 18.3999996185303px;"><font style="font-size: 16pt;">Graduated from&nbsp;<a href="http://guc.edu.eg/">GUC</a>&nbsp;<a href="http://met.guc.edu.eg/">MET</a>&nbsp;</font>German University in Cairo, major Media Engineering and Technology
     <ul>
-        <li style="margin-bottom: 0in; line-height: 18.3999996185303px;">Courses :
-        <ul>
+        <li class="onclick-menu" style="margin-bottom: 0in; line-height: 18.3999996185303px;">Courses :
+        <ul class="onclick-menu-content">
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=330" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl16_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl00_coursesRepeater_ctl00_Label4">CSEN 102 Introduction to Computer Science</a></li>
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=308" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl14_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl00_coursesRepeater_ctl00_Label4" style="line-height: 18.3999996185303px;">CSEN 202 Introduction to Computer Programming</a></li>
             <li><a class="coursesLst" href="http://met.guc.edu.eg/Courses/CourseEdition.aspx?crsEdId=430" id="ctl00_AcademicsMasterContent_seasonsRepeater_ctl12_studyGroupRepeater_ctl00_majorRepeater_ctl00_semesterRepeater_ctl01_coursesRepeater_ctl00_Label4">CSEN 301 Data Structures and Algorithms</a></li>
